@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MarkovModel
+comment0.text=\n\ Write\ a\ description\ of\ MarkovModel\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=keyLen
+comment1.target=MarkovModel(int)
+comment2.params=s
+comment2.target=void\ setTraining(java.lang.String)
+comment3.params=numChars
+comment3.target=java.lang.String\ getRandomText(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
